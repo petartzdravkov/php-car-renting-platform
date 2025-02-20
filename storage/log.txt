@@ -1,0 +1,108 @@
+Log file created on 19/02/2025 at 16:43:28.
+16:43:28 19/02/2025: pesho successfully logged out.
+16:43:52 19/02/2025: pesho successfully registered.
+16:43:54 19/02/2025: pesho successfully logged in.
+16:44:14 19/02/2025: pesho successfully rented a taxi kia ceed.
+16:44:27 19/02/2025: pesho successfully released a taxi kia ceed.
+16:46:11 19/02/2025: pesho successfully rented a taxi mercedes G.
+16:50:31 19/02/2025: pesho successfully released a taxi mercedes G.
+16:52:12 19/02/2025: pesho successfully logged out.
+16:52:16 19/02/2025: pesho successfully logged in.
+16:52:41 19/02/2025: pesho successfully rented a taxi mercedes G.
+16:52:42 19/02/2025: pesho successfully released a taxi mercedes G.
+16:52:42 19/02/2025: pesho successfully rented a taxi mercedes G.
+16:52:43 19/02/2025: pesho successfully released a taxi mercedes G.
+16:52:43 19/02/2025: pesho successfully rented a taxi mercedes G.
+16:52:44 19/02/2025: pesho successfully released a taxi mercedes G.
+16:52:45 19/02/2025: pesho successfully rented a taxi dacia duster.
+16:52:45 19/02/2025: pesho successfully released a taxi dacia duster.
+16:52:46 19/02/2025: pesho successfully rented a taxi dacia duster.
+16:52:46 19/02/2025: pesho successfully released a taxi dacia duster.
+16:52:46 19/02/2025: pesho successfully rented a taxi dacia duster.
+16:52:47 19/02/2025: pesho successfully released a taxi dacia duster.
+16:52:47 19/02/2025: pesho successfully rented a taxi dacia duster.
+16:52:47 19/02/2025: pesho successfully released a taxi dacia duster.
+16:52:47 19/02/2025: pesho successfully rented a taxi dacia duster.
+16:52:47 19/02/2025: pesho successfully released a taxi dacia duster.
+16:52:47 19/02/2025: pesho successfully rented a taxi dacia duster.
+16:52:48 19/02/2025: pesho successfully released a taxi dacia duster.
+16:52:48 19/02/2025: pesho successfully rented a taxi dacia duster.
+16:52:48 19/02/2025: pesho successfully released a taxi dacia duster.
+16:52:48 19/02/2025: pesho successfully rented a taxi dacia duster.
+16:52:48 19/02/2025: pesho successfully released a taxi dacia duster.
+16:52:48 19/02/2025: pesho successfully rented a taxi dacia duster.
+16:52:49 19/02/2025: pesho successfully released a taxi dacia duster.
+16:52:49 19/02/2025: pesho successfully rented a taxi dacia duster.
+16:52:49 19/02/2025: pesho successfully released a taxi dacia duster.
+16:52:49 19/02/2025: pesho successfully rented a taxi dacia duster.
+16:52:49 19/02/2025: pesho successfully released a taxi dacia duster.
+16:52:49 19/02/2025: pesho successfully rented a taxi dacia duster.
+16:52:50 19/02/2025: pesho successfully released a taxi dacia duster.
+16:57:57 19/02/2025: pesho successfully logged out.
+16:58:02 19/02/2025: pesho successfully logged in.
+16:59:42 19/02/2025: pesho successfully logged out.
+17:00:04 19/02/2025: rumi successfully registered.
+17:00:06 19/02/2025: rumi successfully logged in.
+17:00:10 19/02/2025: rumi successfully rented a taxi vw golf.
+17:00:11 19/02/2025: rumi successfully released a taxi vw golf.
+17:00:14 19/02/2025: rumi successfully rented a taxi mercedes G.
+17:00:19 19/02/2025: rumi successfully logged out.
+17:00:20 19/02/2025: pesho successfully logged in.
+17:00:24 19/02/2025: pesho successfully logged out.
+17:00:26 19/02/2025: rumi successfully logged in.
+17:00:27 19/02/2025: rumi successfully released a taxi mercedes G.
+17:00:34 19/02/2025: rumi successfully logged out.
+17:00:36 19/02/2025: rumi successfully logged in.
+17:01:53 19/02/2025: rumi successfully logged out.
+17:01:55 19/02/2025: pesho successfully logged in.
+17:02:04 19/02/2025: pesho successfully logged out.
+17:02:07 19/02/2025: rumi successfully logged in.
+17:11:35 19/02/2025: rumi successfully rented a truck freightliner carolina.
+17:11:50 19/02/2025: rumi successfully released a truck freightliner carolina.
+17:12:05 19/02/2025: rumi successfully rented a truck freightliner carolina.
+17:12:29 19/02/2025: rumi successfully filled up truck freightliner carolina.
+17:12:30 19/02/2025: rumi successfully released a truck freightliner carolina.
+17:42:48 19/02/2025: rumi successfully logged out.
+17:42:50 19/02/2025: pesho successfully logged in.
+17:43:41 19/02/2025: pesho successfully logged out.
+17:43:46 19/02/2025: pesho successfully logged in.
+23:44:08 19/02/2025: pesho successfully logged in.
+23:44:12 19/02/2025: pesho successfully rented a taxi vw golf.
+23:44:24 19/02/2025: pesho successfully released a taxi vw golf.
+23:44:25 19/02/2025: pesho successfully rented a taxi vw golf.
+23:44:27 19/02/2025: pesho successfully filled up taxi vw golf.
+23:44:28 19/02/2025: pesho successfully released a taxi vw golf.
+11:34:10 20/02/2025: pesho successfully logged in.
+12:06:12 20/02/2025: pesho successfully logged out.
+12:06:31 20/02/2025: pesho successfully logged in.
+12:37:47 20/02/2025: pesho successfully logged out.
+12:37:51 20/02/2025: pesho successfully logged in.
+13:13:38 20/02/2025: pesho successfully rented a taxi kia ceed.
+13:14:50 20/02/2025: pesho successfully released a taxi kia ceed.
+13:16:20 20/02/2025: pesho successfully released a taxi kia ceed.
+13:16:21 20/02/2025: pesho successfully logged out.
+13:16:26 20/02/2025: rumi successfully logged in.
+13:16:41 20/02/2025: rumi successfully logged out.
+13:16:44 20/02/2025: pesho successfully logged in.
+13:16:49 20/02/2025: pesho successfully logged out.
+13:16:59 20/02/2025: pesho successfully logged in.
+13:21:59 20/02/2025: pesho successfully logged out.
+13:22:01 20/02/2025: rumi successfully logged in.
+13:22:05 20/02/2025: rumi successfully logged out.
+13:22:07 20/02/2025: pesho successfully logged in.
+13:24:46 20/02/2025: pesho successfully rented a truck kenworth t680.
+13:24:48 20/02/2025: pesho successfully released a truck kenworth t680.
+14:59:51 20/02/2025: pesho successfully logged in.
+15:11:45 20/02/2025: pesho successfully logged out.
+15:11:47 20/02/2025: pesho successfully logged in.
+15:14:57 20/02/2025: pesho successfully rented a taxi mercedes GLS.
+15:15:19 20/02/2025: pesho successfully released a taxi mercedes GLS.
+15:16:41 20/02/2025: pesho successfully rented a taxi mercedes e.
+15:17:15 20/02/2025: pesho successfully released a taxi mercedes e.
+15:17:18 20/02/2025: pesho successfully rented a taxi mercedes e.
+15:17:20 20/02/2025: pesho successfully filled up taxi mercedes e.
+15:17:56 20/02/2025: pesho successfully released a taxi mercedes e.
+15:20:26 20/02/2025: pesho successfully logged out.
+15:40:12 20/02/2025: pesho successfully logged in.
+15:42:00 20/02/2025: pesho successfully logged out.
+15:44:14 20/02/2025: pesho successfully logged in.
