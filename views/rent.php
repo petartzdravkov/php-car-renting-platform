@@ -152,8 +152,12 @@ foreach($cars as $key_car_type => $car_type){
 	<h6 class="card-subtitle mb-2 text-body-secondary"><?= ucfirst($car_config['brand']); ?></h6>
 	<br>
 	<p class="card-text">Reg. number: <?=$car_config['reg'];?></p>
-	<p class="card-text">Model: <?=$car_config['model'];?></p>
-	<p class="card-text">Fuel: <?=$car_config['currentFuel'] . "L/" . $car_config['maxFuel'] . "L";?></p>
+	  <p class="card-text">Model: <?=$car_config['model'];?></p>
+<?php if(!isset($users[$_SESSION['uname']]['isRenting'])){ ?>
+	  <p class="card-text">Fuel: <?=$car_config['currentFuel'] . "L/" . $car_config['maxFuel'] . "L";?></p>
+<?php } else{ ?>
+	  <p class="card-text" id="burned_fuel"></p>
+<?php } ?>
 	<p class="card-text">Fuel Consumption: <?=$car_config['avgFuelConsumption'] . "L/h";?></p>
 	<form method="POST" action="<?= $_SERVER['PHP_SELF'] . '?page=rent'; ?>">
 	<?php if($cars[$key_car_type][$key_car_config]["isRented"] == 0 || !isset($cars[$key_car_type][$key_car_config]["isRented"])){ //if car not rented?>
@@ -179,3 +183,24 @@ foreach($cars as $key_car_type => $car_type){
 
 </div>
 
+
+
+<script>
+
+  function getBurnedFuel(){
+      var request = new XMLHttpRequest();
+      request.open("get", "ajax_requests/current_fuel.php");
+      request.onreadystatechange = function(e){
+	  if(this.readyState==4 && this.status==200){
+	      var burned_fuel_div = document.getElementById('burned_fuel');
+	      if(burned_fuel_div){
+		  burned_fuel_div.innerHTML = this.responseText;
+	      }
+	  }
+      }
+      request.send();
+
+  }
+
+  setInterval(getBurnedFuel, 1000);
+</script>
